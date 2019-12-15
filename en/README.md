@@ -1,4 +1,7 @@
-# The Nu book
+---
+layout: books
+title: The Nu book
+---
 The work-in-progress book for nushell
 
 Currently available are:

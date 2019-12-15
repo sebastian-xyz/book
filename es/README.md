@@ -1,4 +1,8 @@
-# El libro Nu. Puedes ver un demo en vivo aquí [book.nushell.sh](https://book.nushell.sh)
+---
+layout: books
+title: El libro Nu
+---
+Puedes ver un demo en vivo aquí [www.nushell.sh/book/](https://www.nushell.sh/book/).
 
 El libro (en progreso) de nushell
 
